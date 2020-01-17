@@ -1,0 +1,1 @@
+dotnet .\Sample.Cli.App\bin\Debug\netcoreapp3.1\Sample.Cli.App.dll hello-world
